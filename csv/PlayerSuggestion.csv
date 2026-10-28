@@ -1,0 +1,2 @@
+﻿id,created_date,updated_date,created_by_id,nudged_at,tee_time_id,suggested_by_id,host_user_id,suggested_user_id,status,is_sample
+6a8c6699c6365d7e6d67b548,2026-08-24T15:43:21.955000,2026-08-24T15:49:00.939000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,6a8c4a60fa256935fbef0ffc,6a80e7c17aa31885a392902f,6a8c476fd99bf777a3518278,6a83a3c3fe562735dc4d0f8d,approved,false

@@ -1,0 +1,3 @@
+﻿id,created_date,updated_date,created_by_id,trip_id,notes,user_id,host_user_id,estimated_cost,name,player_name,voter_ids,is_sample
+6ab9161903afb2ff605d2314,2026-09-27T13:11:53.608000,2026-09-27T13:11:53.608000,6a80e7c17aa31885a392902f,6ab916199d233a8ce36ee38c,Ocean Course is a must. Golf packages available.,demo-buddy-2,6a80e7c17aa31885a392902f,600,"Kiawah Island, SC",Demo Sarah,"[""demo-buddy-2""]",false
+6ab9161903afb2ff605d2313,2026-09-27T13:11:53.608000,2026-09-27T13:11:53.608000,6a80e7c17aa31885a392902f,6ab916199d233a8ce36ee38c,Play No. 2 and No. 4. Stay at the Carolina Hotel.,demo-buddy-1,6a80e7c17aa31885a392902f,450,"Pinehurst Resort, NC",Demo Dave,"[""demo-buddy-1"",""demo-buddy-2""]",false

@@ -1,0 +1,3 @@
+﻿id,created_date,updated_date,created_by_id,description,date_key,pin_norm_x,pin_norm_y,wind_speed,wind_angle_deg,is_sample
+6ae1711792b0754117b2f318,2026-10-28T03:50:47.002000,2026-10-28T03:50:47.002000,6a80e7c17aa31885a392902f,,2026-10-28,-0.47,-0.2,2,35,false
+6ae17124d4fcc7151bfc99d5,2026-10-28T03:51:00.203000,2026-10-28T03:51:00.203000,6a80e7c17aa31885a392902f,,2026-10-30,0.35,0.56,9,30,false

@@ -1,0 +1,4 @@
+﻿id,created_date,updated_date,created_by_id,description,user_id,display_name,sound_enabled,match_reminders,challenge_visibility,activity_status,is_sample,real_name,real_name_shared
+6adcf3bb6d1514eae0b17175,2026-10-24T18:06:51.080000,2026-10-24T18:06:51.080000,6ad8e727f173f9c2ebba54f9,,6ad8e727f173f9c2ebba54f9,ThugNasty,true,true,everyone,true,false,,
+6adf56384eceda5957266f8f,2026-10-26T13:31:36.880000,2026-10-26T13:32:35.752000,6a80e7c17aa31885a392902f,,6a80e7c17aa31885a392902f,4SF Dan,true,true,everyone,true,false,Dan McGinley,true
+6ae13c1cd8f65ce81268bf56,2026-10-28T00:04:44.913000,2026-10-28T00:04:44.913000,6ae13c0e91d56e7828d7405a,,6ae13c0e91d56e7828d7405a,,true,true,everyone,true,false,DJ Ginner,false

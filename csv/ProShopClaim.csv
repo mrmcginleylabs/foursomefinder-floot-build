@@ -1,0 +1,4 @@
+﻿id,created_date,updated_date,created_by_id,description,user_id,kind,item_key,name,note,source,is_sample
+6adf53106a4e68848a276638,2026-10-26T13:18:08.728000,2026-10-26T13:18:08.728000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,6a8f4b436cb0a6f1942a4dea,emblem,ocean-top-5,dougman823,Granted by the club,award,false
+6adf531b9344facb914faae6,2026-10-26T13:18:19.377000,2026-10-26T13:18:19.377000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,6aaaa029ee93568c545385c3,emblem,ocean-top-5,camato9,Granted by the club,award,false
+6ae13c1e5770e8b8ffd925a4,2026-10-28T00:04:46.791000,2026-10-28T00:04:46.791000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,6ae13c0e91d56e7828d7405a,emblem,early,Early Adopter,You joined while the club was still young,award,false

@@ -1,0 +1,21 @@
+﻿id,created_date,updated_date,created_by_id,description,item_key,name,price,blurb,image_url,color,sort_order,is_active,is_award,label,tags,is_sample
+6adacf1d7f33453014903bdb,2026-10-23T03:06:05.396000,2026-10-25T10:17:55.175000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,pink,Pink Ball,50,,,#ffffff,2,true,false,Common,[],false
+6adad04fdecdf55eae1a051f,2026-10-23T03:11:11.769000,2026-10-25T10:17:55.186000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,bdb,Bad Day Balls,0,,,#ffffff,0,true,false,Collab,[],false
+6adad05d486c5629a18b8c70,2026-10-23T03:11:25.135000,2026-10-25T10:17:55.179000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,practice,Practice,0,,,#ffffff,1,true,false,Stock,[],false
+6adad0648d1ca9adcf2a9da8,2026-10-23T03:11:32.271000,2026-10-25T10:17:55.174000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,sunset,Sunset Orange,50,,,#ffffff,3,true,false,Common,[],false
+6adad06a2fd42c4232ed9d41,2026-10-23T03:11:38.549000,2026-10-25T10:17:55.175000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,electric,Electric Blue,50,,,#ffffff,4,true,false,Common,[],false
+6adad06f9d5b24458e72e54a,2026-10-23T03:11:43.806000,2026-10-25T10:17:55.206000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,crimson,Crimson Red,50,,,#ffffff,5,false,false,Common,[],false
+6adad0926f242ce8bb0ac2be,2026-10-23T03:12:18.540000,2026-10-25T10:17:55.301000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,camo,Woodland Camo,100,,,#ffffff,6,true,false,Common,[],false
+6adad0a5137466d2e108823d,2026-10-23T03:12:37.495000,2026-10-25T10:17:55.383000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,galaxy,Galaxy Swirl,100,,,#ffffff,7,false,false,Exotic,[],false
+6adad0b32b7e8afdba80ce67,2026-10-23T03:12:51.304000,2026-10-25T10:17:55.314000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,striped,4SF Striped,100,,,#ffffff,8,true,false,Relic,[],false
+6adad0b9e4605adedd1a1c7c,2026-10-23T03:12:57.814000,2026-10-25T10:17:55.304000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,lava,Lava Rock,200,,,#ffffff,9,true,false,Exotic,[],false
+6adad0c088195fe4d224e028,2026-10-23T03:13:04.824000,2026-10-25T10:17:55.359000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,stars,Stars & Stripes,200,,,#ffffff,10,true,false,Rare,[],false
+6adad0d45220db31496651b8,2026-10-23T03:13:24.861000,2026-10-25T10:17:55.305000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,golddust,Gold Sparkle,300,,,#ffffff,11,true,false,Legendary,[],false
+6adad0da845820411bb66141,2026-10-23T03:13:30.422000,2026-10-25T10:17:55.492000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,pumpkin,Pumpkin,20,,,#ffffff,13,true,false,Seasonal,[],false
+6adad0df52a6eba3f54d4f04,2026-10-23T03:13:35.989000,2026-10-25T10:17:55.499000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,jackolantern,Jack-o'-Lantern,50,,,#ffffff,14,true,false,Seasonal,[],false
+6adad0e4c43143c662b74f59,2026-10-23T03:13:40.347000,2026-10-25T10:17:55.499000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,zombie,Zombie,50,,,#ffffff,15,true,false,Seasonal,[],false
+6adad0e9c43a8de6862b7d74,2026-10-23T03:13:45.265000,2026-10-25T10:17:55.499000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,mummy,Mummy,50,,,#ffffff,16,true,false,Seasonal,[],false
+6adad0efb3d6f4f61499c93a,2026-10-23T03:13:51.325000,2026-10-25T10:17:55.523000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,skull,Skull,50,,,#ffffff,17,true,false,Seasonal,[],false
+6add17d13bc06e0c9aca9702,2026-10-24T20:40:49.752000,2026-10-25T10:17:55.535000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,ocean-of-1,Ocean 1 of 1,0,,https://base44.app/api/apps/6a80e7c07aa31885a392902e/files/mp/public/6a80e7c07aa31885a392902e/4d1701022_edited-photo87.png,#ffffff,12,true,true,Achieved,[],false
+6ae16f316c9a45731c14355b,2026-10-28T03:42:41.132000,2026-10-28T03:45:05.244000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,full-deck,Huckleberry,1000,,https://base44.app/api/apps/6a80e7c07aa31885a392902e/files/mp/public/6a80e7c07aa31885a392902e/b234509f7_edited-photo-2026-10-27T0942499811.png,#ffffff,,true,false,Legendary,[],false
+6ae16f8c9b2ba9d49d21408c,2026-10-28T03:44:12.247000,2026-10-28T03:44:12.247000,service_8aca9d93-0b50-4afd-b8f5-a503f2be24c3,,raise-u,Raise U,500,,https://base44.app/api/apps/6a80e7c07aa31885a392902e/files/mp/public/6a80e7c07aa31885a392902e/e1cb69070_edited-photo-2026-10-27T0943181421.png,#ffffff,,true,false,Premium,[],false
